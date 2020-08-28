@@ -1,2 +1,2 @@
-# Project-32
-Tower siege game with a background that changes based on time.
+# p5.play-boilerplate
+Boiler plate for p5.play
